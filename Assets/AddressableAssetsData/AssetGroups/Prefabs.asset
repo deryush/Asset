@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 986eda84c94da4c4d89963c70de6553e
+  m_SerializeEntries:
+  - m_GUID: bf0a225a9ff184f2789f3036faaa9150
+    m_Address: Construction Light Low
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: 283e6530a665e4513959d1cd4883682f
+    m_Address: Paint Supplies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: 85dfab9623c67784fa7894de63cd1604
+    m_Address: Props
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: 8850d132797ff49298ba781e8e1c9bfe
+    m_Address: Workbench
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: c0adcaeba3022437293536832628fdf8
+    m_Address: Workbench_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: 38d5ecfa2b93c4095b4cc5d4a590e676
+    m_Address: Workbench_LOD1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: a87f0180d46fd334b9025d0314a0dc70
+    m_Address: Workshop Set
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ab44fc8e7f76b4f4f8c722952a3aaefe, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3bdfd427e5f3d7d459e1ad4b81d5fa9a, type: 2}
+    - {fileID: 11400000, guid: 518545091bab24642977a2c5412d6cc6, type: 2}
